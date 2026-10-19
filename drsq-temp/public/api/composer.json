@@ -1,0 +1,20 @@
+{
+  "name": "drsq-oasis/chat-api",
+  "description": "Server side of the DRSQ Oasis website chat assistant.",
+  "type": "project",
+  "license": "proprietary",
+  "require": {
+    "php": "^8.1",
+    "anthropic-ai/sdk": "^0.59.0",
+    "guzzlehttp/guzzle": "^7.9",
+    "phpmailer/phpmailer": "^6.9",
+    "vlucas/phpdotenv": "^5.6"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true,
+    "allow-plugins": {
+      "php-http/discovery": true
+    }
+  }
+}

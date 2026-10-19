@@ -1,0 +1,20 @@
+# Apache config for the LAMP deployment (copied into dist/ by `npm run build`).
+
+# Never serve dotfiles such as .env.
+<FilesMatch "^\.">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+</FilesMatch>
+
+# SPA rewrite: send every path that isn't a real file or folder to index.html,
+# so React Router deep links survive a refresh. /api/chat.php is a real file
+# and is served by PHP as normal.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>

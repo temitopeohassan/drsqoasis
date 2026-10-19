@@ -1,0 +1,17 @@
+# Only chat.php is public. Everything else in this folder (lib/, vendor/,
+# composer files) is server-side code and must never be served.
+Options -Indexes
+
+<IfModule mod_authz_core.c>
+  Require all denied
+  <Files "chat.php">
+    Require all granted
+  </Files>
+</IfModule>
+
+# Never serve dotfiles such as .env, even if one is placed here by mistake.
+<FilesMatch "^\.">
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+</FilesMatch>

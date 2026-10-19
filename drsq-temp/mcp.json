@@ -1,0 +1,433 @@
+{
+  "project": {
+    "name": "DRSQ Oasis LLC Website",
+    "source": "https://drks-allignment-llc.com",
+    "type": "website-rebuild / brand-content MCP",
+    "last_researched": "2026-09-04",
+    "description": "A structured content, brand, sitemap, messaging, services, impact, team, careers, and technical-direction MCP based on the publicly available IQ Solutions website."
+  },
+  "brand": {
+    "name": "DRSQ Oasis LLC",
+ "positioning": "A health-focused communications, technology, research, training, and technical-assistance organization that turns evidence-based information into clear, engaging, accessible experiences.",
+    "mission": "Make it easier for people to find, understand, and use information that leads to better health.",
+    "vision": "Deliver impactful solutions that promote quality of life by making evidence-based information clear, engaging, and useful for everyone.",
+    "core_idea": "Knowledge improves lives.",
+    "brand_principles": [
+      "Evidence-based",
+      "Human-centered",
+      "Accessible",
+      "Empathetic",
+      "Technology-enabled",
+      "Outcome-focused",
+      "Community-minded"
+    ],
+  },
+  "primary_audiences": [
+    {
+      "segment": "Federal health agencies",
+      "needs": [
+        "public health communications",
+        "digital transformation",
+        "information dissemination",
+        "technical assistance",
+        "research and evaluation",
+        "program support"
+      ]
+    },
+    {
+      "segment": "Government program leaders",
+      "needs": [
+        "mission delivery",
+        "stakeholder engagement",
+        "technology modernization",
+        "measurable outcomes",
+        "quality assurance",
+        "compliance"
+      ]
+    },
+    {
+      "segment": "Healthcare and public health organizations",
+      "needs": [
+        "health education",
+        "behavior change",
+        "audience engagement",
+        "digital content",
+        "research",
+        "multilingual outreach"
+      ]
+    },
+    {
+      "segment": "Nonprofits and foundations",
+      "needs": [
+        "campaign strategy",
+        "community engagement",
+        "capacity building",
+        "research",
+        "communications",
+        "digital experiences"
+      ]
+    },
+    {
+      "segment": "Science and research organizations",
+      "needs": [
+        "science communications",
+        "information centers",
+        "knowledge translation",
+        "audience research",
+        "digital dissemination"
+      ]
+    },
+    {
+      "segment": "Job candidates",
+      "needs": [
+        "mission-driven work",
+        "career growth",
+        "flexible work",
+        "well-being",
+        "collaborative culture"
+      ]
+    }
+  ],
+  "sitemap": [
+    {
+      "path": "/",
+      "name": "Home",
+      "purpose": "Brand introduction, mission, services, featured impact, company overview, community giving, careers, and contact CTA."
+    },
+    {
+      "path": "/what-we-do",
+      "name": "What We Do",
+      "purpose": "Detailed service capabilities."
+    },
+    {
+      "path": "/who-we-are",
+      "name": "Who We Are",
+      "purpose": "Mission, philosophy, leadership, clients, contracting vehicles, certifications, and organizational qualifications."
+    },
+    {
+      "path": "/our-impact",
+      "name": "Our Impact",
+      "purpose": "Case studies, featured articles, measurable outcomes, and thought leadership."
+    },
+    {
+      "path": "/join-our-team",
+      "name": "Join Our Team",
+      "purpose": "Culture, careers, flexibility, benefits, certifications, and employment information."
+    },
+    {
+      "path": "/contact",
+      "name": "Contact Us",
+      "purpose": "Contact information and inquiry form."
+    },
+    {
+      "path": "/who-we-are/ileana-quintas",
+      "name": "Ileana Quintas",
+      "purpose": "Founder and CEO profile."
+    },
+    {
+      "path": "/our-impact/[case-study]",
+      "name": "Case Study Detail",
+      "purpose": "Challenge, solution, impact, metrics, and related work."
+    },
+    {
+      "path": "/terms-service",
+      "name": "Terms of Service",
+      "purpose": "Website terms."
+    }
+  ],
+  "services": [
+    {
+      "name": "Strategic Communications",
+      "headline": "We don't just communicate—we connect.",
+      "description": "Research, create, and distribute trusted information that builds awareness, informs choices, and supports better health outcomes.",
+      "capabilities": [
+        "Communications strategy and action plans",
+        "Behavior-change, education, and awareness campaigns",
+        "Partnership and stakeholder engagement",
+        "Community relations and coalition building",
+        "Public and media relations",
+        "Science and medical writing",
+        "Multicultural communications and outreach",
+        "Multilingual translation",
+        "Crisis communications",
+        "Event and exhibit planning and production",
+        "Traditional, digital, broadcast, OTT, and out-of-home media",
+        "Media training",
+        "Creative design, medical illustration, animation, and video",
+        "Content and materials development",
+        "Plain-language writing"
+      ]
+    },
+    {
+      "name": "Digital Technology",
+      "headline": "Driving action through smart digital solutions.",
+      "description": "Human-centered digital products, AI-enabled workflows, data, platforms, and technology strategies that make complex health information accessible and actionable.",
+      "capabilities": [
+        "Cloud computing, security, and infrastructure",
+        "UX and human-centered design",
+        "Artificial intelligence and virtual reality",
+        "Machine learning",
+        "Agile website and mobile development",
+        "Drupal web development",
+        "Plain-language web writing",
+        "Social media",
+        "Content planning and governance",
+        "Content management systems",
+        "Content syndication",
+        "Application development",
+        "Enterprise architecture",
+        "Analytics and data strategy/visualization",
+        "User testing",
+        "Search and SEO",
+        "Section 508 compliance",
+        "Interactive dashboards",
+        "Database development"
+      ]
+    },
+    {
+      "name": "Technical Assistance",
+      "headline": "Providing real-time, human-centered support.",
+      "description": "Specialized support, guidance, information services, and operational assistance that help people navigate health and social-service information.",
+      "capabilities": [
+        "Toll-free call centers",
+        "Inquiry response and tracking",
+        "VoIP",
+        "Interactive voice response",
+        "SMS/text messaging",
+        "Online chat",
+        "Inventory management, warehousing, and distribution",
+        "Exhibit program support",
+        "Library management and taxonomy"
+      ]
+    },
+    {
+      "name": "Training",
+      "headline": "Strengthening capacity for outreach success.",
+      "description": "Tailored training and capacity-building delivered by communications, marketing, engagement, and subject-matter specialists.",
+      "capabilities": [
+        "Training",
+        "Program development",
+        "Onsite/offsite technical assistance consultation",
+        "Workforce and staff development",
+        "Webinar and resource development"
+      ]
+    },
+    {
+      "name": "Research and Evaluation",
+      "headline": "Generating insights that move people.",
+      "description": "Rigorous qualitative, quantitative, audience, and evaluation research that informs strategy and measures outcomes.",
+      "capabilities": [
+        "Focus groups",
+        "In-depth interviews",
+        "Cognitive interviews",
+        "Online bulletin boards",
+        "Social listening",
+        "Literature reviews",
+        "Environmental scans",
+        "Gap analyses",
+        "OMB/IRB clearance packages",
+        "Process and outcome evaluation",
+        "Data analytics",
+        "Qualitative instrument development and pilot testing",
+        "User testing",
+        "Survey design, programming, fielding, and analysis"
+      ]
+    }
+  ],
+  "impact": {
+    "featured_case_studies": [
+      {
+        "title": "Protecting Children, Families, and Pets: Disposal of Unused Prescription Drugs",
+        "client": "U.S. Food and Drug Administration",
+        "impact": "Estimated 1.8 billion impressions and $36 million in ad value."
+      },
+      {
+        "title": "Expanding Critical Support Networks for New Mothers Experiencing Maternal Mental Health Challenges",
+        "client": "Health Resources and Services Administration",
+        "impact": "Redesign of the Maternal Mental Health Hotline webpage contributed to a 503% increase in hotline calls."
+      },
+      {
+        "title": "Promoting Nurses as Champions for a Healthier America",
+        "impact": "50 State Action Coalitions, 57% increase in RN-to-BSN enrollment, and innovative academic models implemented in 30 states."
+      },
+      {
+        "title": "Increasing Access to Lifesaving Resources for Individuals Facing Mental Health Challenges",
+        "client": "National Institute of Mental Health",
+        "impact": "More than 13,000 patients and healthcare providers reached through exhibits; more than 13,000 inquiries responded to annually."
+      },
+      {
+        "title": "AI-Powered Content Workflows Drive Faster, More Effective Health Communication",
+        "impact": "Estimated 30–40% reduction in routine task time through selected AI-enabled workflows."
+      }
+    ],
+    "additional_topics": [
+      "Safer travel choices and Vision Zero research",
+      "Scientific innovation and integrated communications",
+      "COVID-19 treatment communications",
+      "COVID-19 vaccine access",
+      "Tobacco-related youth research",
+      "Children's mental health and natural disasters",
+      "Telehealth and substance use disorder treatment during pregnancy"
+    ]
+  },
+    ],
+  "clients": [
+    "AARP",
+    "ASPR",
+    "CDC",
+    "FDA",
+    "HHS",
+    "HRSA",
+    "HSCSN",
+    "GSA",
+    "FNIH",
+    "NSF",
+    "NIH",
+    "SAMHSA"
+  ],
+  "contracting_vehicles": [
+    "GSA Multiple Award Schedule (MAS)",
+    "GSA OASIS+ IDIQ",
+    "NHLBI Communications, Engagement, and Education Support Services BPA II",
+    "NIA Information Resource Center IDIQ",
+    "NIH Public Information & Communication Services III (PICS III)",
+    "SAMHSA IDIQ",
+    "FDA Communications and Media Services BPA"
+  ],
+  "qualifications": {
+    "designation": "Certified woman-owned small business concern",
+    "cmmi": "CMMI Maturity Level 3",
+    "iso": [
+      "ISO 9001:2015 – Quality Management Systems",
+      "ISO/IEC 27001:2022 – Information Security Management Systems",
+      "ISO/IEC 20000-1:2018 – Information Technology Service Management"
+    ]
+  },
+  "culture": {
+    "positioning": "Mission-driven, collaborative, innovative, flexible, and focused on improving lives.",
+    "work_model": [
+      "Flexible scheduling",
+      "Virtual/in-person collaboration",
+      "National network of experts"
+    ],
+    "wellbeing": [
+      "Health challenges",
+      "Virtual yoga and meditation",
+      "Community charitable activities"
+    ]
+  },
+  "community": {
+    "description": "IQ Solutions integrates employee health challenges with charitable activities to create positive impact for team members and communities.",
+    "organizations_shown_on_site": [
+      "Active Minds",
+      "Alzheimer's Association",
+      "Brother Wolf",
+      "NIH Inn",
+      "Madison House",
+      "St. Jude",
+      "Susan G. Komen",
+      "The Roman Catholic Archdiocese of Washington",
+      "Habitat for Humanity",
+      "Shatterproof",
+      "Pasadena Humane",
+      "Special Olympics",
+      "A Wider Circle",
+      "World Central Kitchen"
+    ]
+  },
+  "homepage_stats": [
+    {
+      "value": "9.4",
+      "label": "Average years with company"
+    },
+    {
+      "value": "36",
+      "label": "Health challenges completed"
+    }
+  ],
+  "homepage_sections": [
+    "Hero / mission",
+    "What We Do",
+    "Featured Work",
+    "Who We Are",
+    "Company statistics",
+    "Community Giving",
+    "Join Our Team",
+    "CEO quote",
+    "Contact"
+  ],
+  "content_voice": {
+    "tone": [
+      "Authoritative",
+      "Human",
+      "Empathetic",
+      "Evidence-based",
+      "Clear",
+      "Optimistic",
+      "Mission-driven"
+    ],
+    "writing_rules": [
+      "Prefer plain language over jargon.",
+      "Connect technology and research to human outcomes.",
+      "Lead with audience needs and measurable impact.",
+      "Use credible, evidence-based language.",
+      "Emphasize accessibility and inclusivity.",
+      "Use concise benefit-oriented headlines.",
+      "Support claims with concrete metrics when available."
+    ]
+  },
+  "website_build_direction": {
+    "recommended_navigation": [
+      "Home",
+      "What We Do",
+      "Who We Are",
+      "Our Impact",
+      "Join Our Team",
+      "Contact"
+    ],
+    "homepage_ctas": [
+      "Explore What We Do",
+      "See Our Impact",
+      "Meet Our Team",
+      "Join Our Team",
+      "Contact Us"
+    ],
+    "service_detail_template": [
+      "Service hero",
+      "Overview",
+      "Capabilities",
+      "How we work",
+      "Relevant case studies",
+      "Outcomes",
+      "CTA"
+    ],
+    "case_study_template": [
+      "Challenge",
+      "Our Solution",
+      "The Impact",
+      "Metrics",
+      "Related Work"
+    ],
+    "team_template": [
+      "Portrait",
+      "Name",
+      "Role",
+      "Bio",
+      "Expertise"
+    ],
+    "design_direction": "Modern public-health / government-services aesthetic: clean layouts, accessible typography, strong whitespace, human photography, restrained professional color use, data-driven cards, and prominent impact metrics.",
+    "accessibility": [
+      "WCAG-oriented UX",
+      "Plain-language content",
+      "Section 508 awareness",
+      "Strong keyboard/focus behavior",
+      "Alt text for meaningful imagery",
+      "Accessible contrast"
+    ]
+  },
+  "source_notes": [
+    "Content was researched from publicly available DRSQ Oasis LLC pages on drks-allignment-llc.com.",
+    "Some figures and claims are presented as they appear on the source site and should be revalidated before publication.",
+    "This MCP is intended as a structured website/content specification, not a copy of the site's source code."
+  ]
+}
